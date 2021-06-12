@@ -9,7 +9,7 @@ Bem-Vindos à Rádio Chinfraria!
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
 <script type="text/javascript">
 MRP.insert({
-'url':'https://freeuk9.listen2myradio.com/live.mp3?typeportmount=s1_24979_stream_881946623',
+'url':'https://freeuk1.listen2myradio.com/live.mp3?typeportmount=s1_28055_stream_964879993',
 'lang':'pt',
 'codec':'mp3',
 'volume':80,
