@@ -25,7 +25,13 @@ MRP.insert({
 </script>
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 
-<p><h3>Tocando Agora:</h3></p>
+<p>
+  <h3>Tocando Agora:
+   <div>
+			<div><iframe src="https://radiochinfraria.bubbleapps.io/" height="400"></iframe> </div>
+    </div>  
+  </h3>
+</p>
 </center>
 
 <p>
