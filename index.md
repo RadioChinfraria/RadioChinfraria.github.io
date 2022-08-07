@@ -28,7 +28,7 @@ MRP.insert({
 <p>
   <h3>Tocando Agora:
    <div>
-			<div><iframe src="https://radiochinfraria.bubbleapps.io/" height="300"></iframe> </div>
+			<div><iframe src="https://radiochinfraria.bubbleapps.io/albuns" height="300"></iframe> </div>
     </div>  
   </h3>
 </p>
