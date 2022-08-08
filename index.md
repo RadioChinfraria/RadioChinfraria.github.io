@@ -1,7 +1,6 @@
 
 <div style="font-size:26px;font-style:bold;text-align:center">        
-Bem-Vindos à Rádio Chinfraria!
-  
+Bem-Vindos à Rádio Chinfraria!  
 <p></p>
 <p>
 <img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="180" class="center">
@@ -31,6 +30,7 @@ MRP.insert({
 
 
 Aperta play que só toca pedrada...
+<p></p>
 <p>
 A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica, sem fins lucrativos. Ajude-nos, compartilhe, passe adiante essa ideia!
 
