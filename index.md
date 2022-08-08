@@ -24,17 +24,8 @@ MRP.insert({
 });
 </script>
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
-
-<p>
-  <h3>Tocando Agora:
-   <div>
-			<div><iframe src="https://radiochinfraria.bubbleapps.io/albuns" height="300"></iframe> </div>
-    </div>  
-  </h3>
-</p>
-</center>
-
-<p>
+< !-- <p> <h3>Tocando Agora: <div> <div><iframe src="https://radiochinfraria.bubbleapps.io/albuns" height="300"></iframe> </div> </div> </h3> </p> </center> <p> -- >
+	
 Aperta play que só toca pedrada...
 
 A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica, sem fins lucrativos. Ajude-nos, compartilhe, passe adiante essa ideia!
