@@ -10,8 +10,6 @@
     
 </head>
 
-<body>
-
 <div style="font-size:26px;font-style:bold;text-align:center">        
 <h2>Bem-Vindos à Rádio Chinfraria!</h2>  
 <p></p>
@@ -30,7 +28,7 @@
 MRP.insert({
 'url':'http://stream.zeno.fm/f5w9ygtf3uhvv',
 'codec':'mp3',
-'volume':90,
+'volume':100,
 'autoplay':true,
 'jsevents':true,
 'buffering':0,
@@ -38,7 +36,7 @@ MRP.insert({
 'welcome':'Só toca pedrada...',
 'wmode':'transparent',
 'skin':'arvyskin',
-'width':400,
+'width':350,
 'height':30
 });
 </script>
@@ -60,4 +58,4 @@ Rádio Chinfraria, a project by members of the HOLY CHINFRARIA group. Our goal: 
 
 <audio><source src="https://doc-0g-30-docs.googleusercontent.com/docs/securesc/0781fre053vcb0u9dr3kqkao6ltsep2t/20todtd8l2rub3s1cmq72lgqu70lvgj0/1605989550000/04891651114017176695/04891651114017176695/1CDqDjQDkM1TNrmWLrqnBkIt3nk1kfHVn?e=download&amp;authuser=1" type="audio/mpeg"></audio>
 </center>
-</body>
+
