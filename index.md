@@ -17,9 +17,10 @@ Bem-Vindos à Rádio Chinfraria!
 <p></p>
 <p>
 <img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="220" class="center">
+</div>
 <p>															 
 <p></p>
-</div>
+
 <center>
 
 
@@ -37,7 +38,7 @@ MRP.insert({
 'welcome':'Só toca pedrada...',
 'wmode':'transparent',
 'skin':'arvyskin',
-'width':560,
+'width':400,
 'height':30
 });
 </script>
@@ -48,7 +49,7 @@ MRP.insert({
 <p></p>
 <p>
 <h4>A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica, sem fins lucrativos. Ajude-nos, compartilhe, passe adiante essa ideia!
-
+<p></p>
 Press play that only plays high...
 
 Rádio Chinfraria, a project by members of the HOLY CHINFRARIA group. Our goal: to promote art, culture, philosophy, in a playful way, non-profit. Help us, share, pass this idea on!
