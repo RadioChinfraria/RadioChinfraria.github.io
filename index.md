@@ -1,16 +1,14 @@
 
 <div style="font-size:26px;font-style:bold;text-align:center">        
 Bem-Vindos à Rádio Chinfraria!
-</div>  
+  
 <p></p>
 <p>
 <img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="180" class="center">
 <p>															 
 <p></p>
+</div>
 <center>
-	
-
-
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
 <script type="text/javascript">
