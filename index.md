@@ -8,7 +8,8 @@
     <meta name="description" content="Simple HTML5 Page layout template with header, footer, sidebar etc.">
     <link rel="stylesheet" href="style.css">
     
-</head>       
+</head>  
+<center>
 <h2>Bem-Vindos à Rádio Chinfraria!</h2>  
 <p></p>
 <p>
@@ -16,9 +17,6 @@
 
 <p>															 
 <p></p>
-
-<center>
-
 
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
