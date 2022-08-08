@@ -13,7 +13,7 @@
 <body>
 
 <div style="font-size:26px;font-style:bold;text-align:center">        
-Bem-Vindos à Rádio Chinfraria!  
+<h2>Bem-Vindos à Rádio Chinfraria!</h2>  
 <p></p>
 <p>
 <img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="220" class="center">
