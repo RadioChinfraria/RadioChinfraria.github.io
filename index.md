@@ -1,3 +1,16 @@
+<!doctype html>
+<html lang="pt" class="no-js">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Rádio Chinfraria</title>
+    <meta name="description" content="Simple HTML5 Page layout template with header, footer, sidebar etc.">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+
+<body>
 
 <div style="font-size:26px;font-style:bold;text-align:center">        
 Bem-Vindos à Rádio Chinfraria!  
@@ -43,3 +56,4 @@ Rádio Chinfraria, a project by members of the HOLY CHINFRARIA group. Our goal: 
 
 <audio><source src="https://doc-0g-30-docs.googleusercontent.com/docs/securesc/0781fre053vcb0u9dr3kqkao6ltsep2t/20todtd8l2rub3s1cmq72lgqu70lvgj0/1605989550000/04891651114017176695/04891651114017176695/1CDqDjQDkM1TNrmWLrqnBkIt3nk1kfHVn?e=download&amp;authuser=1" type="audio/mpeg"></audio>
 </center>
+</body>
