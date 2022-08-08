@@ -44,14 +44,15 @@ MRP.insert({
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->    
     
 
-Aperta play que só toca pedrada...
+<h3>Aperta play que só toca pedrada...</h3>
 <p></p>
 <p>
-A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica, sem fins lucrativos. Ajude-nos, compartilhe, passe adiante essa ideia!
+<h4>A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica, sem fins lucrativos. Ajude-nos, compartilhe, passe adiante essa ideia!
 
 Press play that only plays high...
 
 Rádio Chinfraria, a project by members of the HOLY CHINFRARIA group. Our goal: to promote art, culture, philosophy, in a playful way, non-profit. Help us, share, pass this idea on!
+</h4>
 </p>
 <center>
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">COMUNIQUE-SE... Mande seu recado para a RÁDIO CHINFRARIA por aqui... 🤟😉</p>&mdash; Rádio Chinfraria (@chinfraria) <a href="https://twitter.com/chinfraria/status/1328581746275868672?ref_src=twsrc%5Etfw">November 17, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
