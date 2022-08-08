@@ -30,7 +30,7 @@ MRP.insert({
 'wmode':'transparent',
 'skin':'arvyskin',
 'width':350,
-'height':50
+'height':70
 });
 </script>
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->    
