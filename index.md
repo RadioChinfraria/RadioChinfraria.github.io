@@ -13,11 +13,9 @@
 <h2>Bem-Vindos à Rádio Chinfraria!</h2>  
 <p></p>
 <p>
-<img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="240" class="center">
-
-<p>															 
-<p></p>
-
+<img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="260" class="center">
+<p>	
+    
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
 <script type="text/javascript">
@@ -33,12 +31,13 @@ MRP.insert({
 'wmode':'transparent',
 'skin':'arvyskin',
 'width':350,
-'height':30
+'height':50
 });
 </script>
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->    
     
-
+<p></p>
+<p></p>
 <h3>Aperta play que só toca pedrada...</h3>
 <p></p>
 <p>
