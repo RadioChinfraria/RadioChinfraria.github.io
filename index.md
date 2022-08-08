@@ -4,7 +4,7 @@ Bem-Vindos à Rádio Chinfraria!
 </div>  
 <p></p>
 <p>
-<img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="150" class="center">
+<img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="180" class="center">
 <p>															 
 <p></p>
 <center>
