@@ -3,7 +3,13 @@
 Bem-Vindos à Rádio Chinfraria!
 </div>  
 <p></p>
+<p>	
+<img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="150">
+<p>															 
+<p></p>
 <center>
+	
+
 
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
@@ -25,9 +31,9 @@ MRP.insert({
 </script>
 <!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 < !-- <p> <h3>Tocando Agora: <div> <div><iframe src="https://radiochinfraria.bubbleapps.io/albuns" height="300"></iframe> </div> </div> </h3> </p> </center> <p> -- >
-	
-Aperta play que só toca pedrada...
 
+Aperta play que só toca pedrada...
+<p>
 A Rádio Chinfraria, projeto dos integrantes do grupo SAGRADA CHINFRARIA. Nosso objetivo: promover arte, cultura, filosofia, de forma lúdica, sem fins lucrativos. Ajude-nos, compartilhe, passe adiante essa ideia!
 
 Press play that only plays high...
