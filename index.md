@@ -21,26 +21,28 @@ Bem-Vindos à Rádio Chinfraria!
 <p></p>
 </div>
 <center>
+
+
 <!-- BEGINS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
 <script type="text/javascript" src="https://hosted.muses.org/mrp.js"></script>
 <script type="text/javascript">
 MRP.insert({
 'url':'http://stream.zeno.fm/f5w9ygtf3uhvv',
-'lang':'pt',
 'codec':'mp3',
-'volume':80,
+'volume':90,
 'autoplay':true,
 'jsevents':true,
 'buffering':0,
-'title':'',
+'title':'Rádio Chinfraria',
+'welcome':'Só toca pedrada...',
 'wmode':'transparent',
-'skin':'cassette',
-'width':200,
-'height':120
+'skin':'arvyskin',
+'width':560,
+'height':30
 });
 </script>
-<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->
-
+<!-- ENDS: AUTO-GENERATED MUSES RADIO PLAYER CODE -->    
+    
 
 Aperta play que só toca pedrada...
 <p></p>
