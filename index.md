@@ -8,14 +8,12 @@
     <meta name="description" content="Simple HTML5 Page layout template with header, footer, sidebar etc.">
     <link rel="stylesheet" href="style.css">
     
-</head>
-
-<div style="font-size:26px;font-style:bold;text-align:center">        
+</head>       
 <h2>Bem-Vindos à Rádio Chinfraria!</h2>  
 <p></p>
 <p>
-<img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="220" class="center">
-</div>
+<img src="https://github.com/RadioChinfraria/radiochinfraria.github.io/blob/main/RadioChinfrariaJohn.png?raw=true" height="240" class="center">
+
 <p>															 
 <p></p>
 
