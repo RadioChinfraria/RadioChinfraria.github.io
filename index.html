@@ -39,12 +39,23 @@ MRP.insert({
 value='Veja o que está tocando agora' >    
 
 
-<br/>
+<br>
 <br/>
 </body>
 <center>
     <a href="http://twitter.com/share" class="twitter-share-button"
-    data-url="http://radiochinfraria.com.br/" data-text="Rádio Chinfraria" data-count="horizontal" data-via="chinfraria" data-lang="pt">Tweetar</a>
+    data-url="http://radiochinfraria.com.br/" data-text="Sintonize agora na Rádio Chinfraria. A rádio WEB que só toca pedrada! Rock, blues, reggae, jazz, músicos do Rio Grande do Sul, resenhas musicais e muito mais..." data-count="horizontal" data-via="chinfraria" data-lang="pt">Tweetar</a>
     <script type="text/javascript" src="http://platform.twitter.com/widgets.js">
+    </script>
+    
+   <a href="" id="facebook-share-btt" rel="nofollow" target="_blank" class="facebook-share-button"></a>
+    
+    <!-- Você pode colocar este script num arquivo externo -->
+    <script type="text/javascript">
+        //Constrói a URL depois que o DOM estiver pronto
+        document.addEventListener("DOMContentLoaded", function() {            
+            //altera a URL do botão
+            document.getElementById("facebook-share-btt").href = "https://www.facebook.com/sharer/sharer.php?u=" + encodeURIComponent(window.location.href);
+        }, false);
     </script>
 </center>
