@@ -264,19 +264,19 @@ i{
     color:#fffff !important;
 }
 
-.btn_social { 
+.redes { 
 	width:100%; 
 	float:left; 
 	display:flex; 
 	margin:auto; 
 }
-.btn_social ul  { 
+.redes ul  { 
 	width:auto; 
 	margin:auto; 
 	float:left; 
 	display:block; 
 }
-.btn_social ul li  { 
+.redes ul li  { 
 	position:relative; 
 	background:#555555; 
 	list-style:none; 
@@ -288,7 +288,7 @@ i{
 	font-size:1.5em; 
 	text-align:center; 
 }
-.btn_social ul li a  { 
+.redes ul li a  { 
 	width:50px; 
 	height:50px; 
 	line-height:53px; 
@@ -297,7 +297,7 @@ i{
 	color:#fff; 
 	transition:.4s;
 }
-.btn_social ul li::before { 
+.redes ul li::before { 
 	transition:0.4s; 
 	position:absolute; 
 	content:''; 
@@ -310,6 +310,6 @@ i{
 	transform: scale(1); 
 	transition:.4s; 
 }
-.btn_social ul li:hover::before { transition:0.4s; top:0%; }
-.btn_social ul li a:hover       { color:#555555; }
+.redes ul li:hover::before { transition:0.4s; top:0%; }
+.redes ul li a:hover       { color:#555555; }
 
