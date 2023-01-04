@@ -252,7 +252,7 @@ border-radius:10px;
 .redes { 
 	width:32px; 
 	height:32px;
-	background-size: 32px;
+	justify-content: center;
 	line-height:35px; 
 	display:inline-block; 
 	text-decoration:none; 
