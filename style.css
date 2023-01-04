@@ -283,7 +283,7 @@ ul.redes li  {
 	font-size:1.5em; 
 	text-align:center; 
 }
-.redes ul li a  { 
+ul.redes li a  { 
 	width:20px; 
 	height:20px;
 	background-size: 20px;
