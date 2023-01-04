@@ -249,21 +249,6 @@ border-radius:10px;
   color: #EF3B3A;
 }
 
-.ft14 {
-font-size: 44px !important;
-  color:red;
-  
-}
-.bg-blue{
-background-color: #1b95e0 !important;
-  color:#fffff;
-}
-
-i{
-  
-    color:#fffff !important;
-}
-
 
 redes ul { 
 	width:auto; 
@@ -275,7 +260,7 @@ redes ul li  {
 	position:relative; 
 	background:#555555; 
 	list-style:none; 
-	float:left; 
+	float:center; 
 	margin:5px; 
 	z-index:1; 
 	overflow:hidden; 
