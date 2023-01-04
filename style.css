@@ -264,19 +264,14 @@ i{
     color:#fffff !important;
 }
 
-.redes { 
-	width:10%; 
-	float:left; 
-	display:flex; 
-	margin:auto; 
-}
-.redes ul  { 
+
+ul.redes  { 
 	width:auto; 
 	margin:auto; 
 	float:center; 
 	display:block; 
 }
-.redes ul li  { 
+ul.redes li  { 
 	position:relative; 
 	background:#555555; 
 	list-style:none; 
