@@ -265,13 +265,13 @@ i{
 }
 
 
-ul.redes  { 
+redes ul { 
 	width:auto; 
 	margin:auto; 
 	float:center; 
 	display:block; 
 }
-ul.redes li  { 
+redes ul li  { 
 	position:relative; 
 	background:#555555; 
 	list-style:none; 
@@ -283,11 +283,11 @@ ul.redes li  {
 	font-size:1.5em; 
 	text-align:center; 
 }
-ul.redes li a  { 
-	width:20px; 
-	height:20px;
-	background-size: 20px;
-	line-height:23px; 
+redes ul li a  { 
+	width:50px; 
+	height:50px;
+	background-size: 50px;
+	line-height:53px; 
 	display:block; 
 	text-decoration:none; 
 	color:#fff; 
