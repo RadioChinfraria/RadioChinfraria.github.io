@@ -290,7 +290,8 @@ i{
 }
 .redes ul li a  { 
 	width:20px; 
-	height:20px; 
+	height:20px;
+	background-size: 20px;
 	line-height:23px; 
 	display:block; 
 	text-decoration:none; 
