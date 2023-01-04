@@ -249,25 +249,6 @@ border-radius:10px;
   color: #EF3B3A;
 }
 
-
-redes ul { 
-	width:auto; 
-	margin:auto; 
-	float:center; 
-	display:block; 
-}
-redes ul li  { 
-	position:relative; 
-	background:#555555; 
-	list-style:none; 
-	float:center; 
-	margin:5px; 
-	z-index:1; 
-	overflow:hidden; 
-	border-radius:3px; 
-	font-size:1.5em; 
-	text-align:center; 
-}
 redes ul li a  { 
 	width:50px; 
 	height:50px;
@@ -276,7 +257,6 @@ redes ul li a  {
 	display:block; 
 	text-decoration:none; 
 	color:#fff; 
-	transition:.4s;
 }
 
 
