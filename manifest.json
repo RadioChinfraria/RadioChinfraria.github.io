@@ -9,8 +9,8 @@
   "short_name": "radiochinfraria",
   "start_url": "radiochinfraria.github.io/index.html",
   "theme_color": "#000000",
-  "categories": [],
+  "categories": ["music"],
   "screenshots": [],
-  "icons": [],
+  "icons": ["chinfra-icon.png"],
   "shortcuts": []
 }
