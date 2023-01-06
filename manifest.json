@@ -1,0 +1,16 @@
+{
+  "background_color": "#000000",
+  "description": "Simple HTML5 Page layout template with header, footer, sidebar etc.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Rádio Chinfraria",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "radiochinfraria.com",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": []
+}
