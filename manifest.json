@@ -11,6 +11,10 @@
   "theme_color": "#000000",
   "categories": ["music"],
   "screenshots": [],
-  "icons": ["RadioChinfrariaJohn.png"],
+  "icons": [{
+      "src": "RadioChinfrariaJohn.png",
+    "sizes": "512x512",
+    "type": "image/png"
+    }],
   "shortcuts": []
 }
